@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Chakraborty</h1>
-<h3 align="center">A passionate ML Developer from India</h3>
+<h3 align="center">A passionate ML Developer from India. I am also working on Java Backend ecosystem with microservices architecture.</h3>
 
-- 🌱 I’m currently learning **GenAI, MLOps, Diffusion Models, Agentic AI, AI automation tools**
+- 🌱 I’m currently learning **Agentic AI, RAG, Java spring boot microservices**
 
-- 📫 How to reach me **anuragchakraborty00410041@okhdfcbank**
+- 📫 How to reach me **anuragchakraborty00410041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
